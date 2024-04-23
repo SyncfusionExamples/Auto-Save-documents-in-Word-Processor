@@ -3,7 +3,7 @@ import { DocumentEditorContainer, Toolbar } from '@syncfusion/ej2-documenteditor
 import { TitleBar } from './title-bar';
 import { Button } from '@syncfusion/ej2-buttons';
 /**
- * Default document editor sample
+ * Default document editor sample 
  */
 
     
