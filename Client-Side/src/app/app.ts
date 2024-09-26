@@ -3,11 +3,11 @@ import { DocumentEditorContainer, Toolbar } from '@syncfusion/ej2-documenteditor
 import { TitleBar } from './title-bar';
 import { Button } from '@syncfusion/ej2-buttons';
 /**
- * Default document editor sample
+ * Default document editor sample 
  */
 
     
-    let hostUrl: string = 'https://ej2services.syncfusion.com/production/web-services/';
+    let hostUrl: string = 'https://services.syncfusion.com/js/production/';
     let contentChanged: boolean = false;
     let container: DocumentEditorContainer = new DocumentEditorContainer({ enableToolbar: true,height:'590px' });
     DocumentEditorContainer.Inject(Toolbar);
